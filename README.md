@@ -65,3 +65,16 @@ This project predicts stock price movement (up or down) by analyzing sentiment f
    model = load_model('sentiment_stock_model.h5')
    predictions = model.predict(input_data)
 
+## Results
+The neural network predicts whether a stock will move up or down based on sentiment polarity scores and stock data. Example outputs include:
+1. Input: Sentiment scores for company X and previous close value.
+2. Output: Stock movement prediction (0 for down, 1 for up).
+
+## Contributing
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-name).
+3. Commit your changes (git commit -m "Add feature-name").
+4. Push to the branch (git push origin feature-name).
+5. Submit a pull request.
