@@ -47,4 +47,4 @@ This project predicts stock price movement (up or down) by analyzing sentiment f
    ```bash
    pip install -r requirements.txt
 3. Set up the Reddit API credentials:
-   Create a praw.ini file with your Reddit API client credentials.   
+      Create a praw.ini file with your Reddit API client credentials.   
