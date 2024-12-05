@@ -32,7 +32,7 @@ This project predicts stock price movement (up or down) by analyzing sentiment f
 ## Technologies Used
 
 - **Python**: Core language for scripting and implementation.
-- **PRAW**: To scrape posts and comments from the "2allstreetbets" subreddit.
+- **PRAW**: To scrape posts and comments from the "wallstreetbets" subreddit.
 - **TextBlob**: For sentiment analysis and computing polarity scores.
 - **yfinance**: To fetch historical stock data.
 - **TensorFlow/Keras**: For building and training the neural network.
