@@ -78,3 +78,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes (git commit -m "Add feature-name").
 4. Push to the branch (git push origin feature-name).
 5. Submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Batman12456/stock-movement-prediction/blob/main/LICENSE) file for details.
