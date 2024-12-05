@@ -1,6 +1,6 @@
 # Stock Movement Prediction using Sentiment Analysis on Reddit Posts
 
-This project predicts stock price movement (up or down) by analyzing sentiment from Reddit posts, specifically the "WallStreetBets" subreddit. Sentiment scores are computed using TextBlob, and a simple neural network is used to classify stock movements based on these scores.
+This project predicts stock price movement (up or down) by analyzing sentiment from Reddit posts, specifically the "wallstreetbets" subreddit. Sentiment scores are computed using TextBlob, and a simple neural network is used to classify stock movements based on these scores.
 
 ## Table of Contents
 1. [Methodology](#methodology)
@@ -32,7 +32,7 @@ This project predicts stock price movement (up or down) by analyzing sentiment f
 ## Technologies Used
 
 - **Python**: Core language for scripting and implementation.
-- **PRAW**: To scrape posts and comments from the "WallStreetBets" subreddit.
+- **PRAW**: To scrape posts and comments from the "2allstreetbets" subreddit.
 - **TextBlob**: For sentiment analysis and computing polarity scores.
 - **yfinance**: To fetch historical stock data.
 - **TensorFlow/Keras**: For building and training the neural network.
