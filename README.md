@@ -53,4 +53,5 @@ This project predicts stock price movement (up or down) by analyzing sentiment f
       client_id=your_client_id
       client_secret=your_client_secret
       user_agent=your_user_agent
-
+4. Fetch Reddit posts and comments.
+5. Train the neural network.
