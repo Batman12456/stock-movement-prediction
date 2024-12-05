@@ -55,3 +55,13 @@ This project predicts stock price movement (up or down) by analyzing sentiment f
       user_agent=your_user_agent
 4. Fetch Reddit posts and comments.
 5. Train the neural network.
+
+## Usage
+
+1. To scrape Reddit posts and generate sentiment polarity scores, run the appropriate scripts sequentially.
+2. Use the trained model to predict stock movements for a company:
+   ```bash
+   from tensorflow.keras.models import load_model
+   model = load_model('sentiment_stock_model.h5')
+   predictions = model.predict(input_data)
+
